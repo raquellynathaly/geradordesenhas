@@ -21,7 +21,7 @@ body {
 }
 
 .titulo-principal {
-    font-family: var(--roboto-mono);
+    font-family: var(--Monaspace);
     font-size: 32px;
 }
 
@@ -45,7 +45,7 @@ body {
     background-color: var(--fundo-senha);
     border: none;
     color: var(--branco);
-    font-family: var(--roboto-mono);
+    font-family: var(--Monaspace);
     font-size: 40px;
     width: 70%;
 }
@@ -67,7 +67,7 @@ body {
 }
 
 .parametro-titulo {
-    font-family: var(--roboto-mono);
+    font-family: var(--Monaspace);
     font-size: 28px;
 }
 
